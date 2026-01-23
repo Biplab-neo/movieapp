@@ -96,7 +96,7 @@ export function Movies() {
       </Modal>
 
       <div className="relative h-[60vh] w-[100vw] bg-cover bg-top bg-[url('/images/fightclub.jpg')] text-center content-center">
-        <h1 className="relative z-10 text-emerald-500 text-[30px] md:text-[50px] py-[20px]">Search Your Favourite Movies Here</h1>
+        <h1 className="relative z-10 text-[yellow] text-[30px] md:text-[50px] py-[20px]">Search Your Favourite Movies Here</h1>
         <div className="absolute inset-0 bg-black/30"></div>
         <div className="flex justify-center px-[12px]">
           <div className="w-full max-w-md relative flex">
